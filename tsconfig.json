@@ -1,0 +1,15 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es5",
+    "module": "NodeNext",
+    "declaration": true,
+    "newLine": "LF",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowJs": false,
+    "removeComments": true,
+    "diagnostics": false,
+    "sourceMap": true
+  }
+}
